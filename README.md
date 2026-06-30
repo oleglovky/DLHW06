@@ -1,0 +1,1 @@
+### Assignment: Real-World Hand Pose Estimation (YOLOv26-Pose)
