@@ -1,0 +1,6 @@
+opencv-python>=4.13.0.92
+python-dotenv>=1.2.2
+torch>=2.12.1
+torchvision>=0.27.1
+ultralytics>=8.4.82
+wandb>=0.28.0
