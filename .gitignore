@@ -1,3 +1,5 @@
 # Environment
 .venv/
 .env
+datasets/
+*.cache
